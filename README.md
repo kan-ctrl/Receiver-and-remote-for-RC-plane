@@ -38,7 +38,7 @@ Equipment I used:
 
 plane:
 ![unnamed (7)](https://github.com/user-attachments/assets/0d7ac9c3-64e1-4ca1-bc9e-495569a9a9aa)
-https://youtu.be/YTE_8dxdNLo?si=TOSs_iACHHIDsJBg
+how to build: https://youtu.be/YTE_8dxdNLo?si=TOSs_iACHHIDsJBg
 
 remotes:
 <img width="1126" height="801" alt="ams1117 (1)" src="https://github.com/user-attachments/assets/cd76a51a-3d4b-4971-a1fa-3250c5f318d8" />
