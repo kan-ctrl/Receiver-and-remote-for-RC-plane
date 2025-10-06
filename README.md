@@ -55,3 +55,5 @@ It doesn't look that great, but I had a little fun doing it and it's a bit cheap
 Overall, it functional but if your goal is to make a RC plane then you should just buy pre-built one. And of course, you can adapt it to other wireless devices, because of course, it's made with Arduino.
 
 **The disadvantage is that it looks ugly and the receiver is quite larger than the pre-made one.
+
+Made by:Nantachit Songsang(นันทชิต ส่งแสง)
