@@ -2,7 +2,7 @@
 
 I build remotes and receivers for RC planes.
 
-Equipment I used: 
+Components I used: 
 
   arduino nano (2)
   
